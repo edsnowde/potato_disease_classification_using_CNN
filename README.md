@@ -64,6 +64,7 @@ Potato plants are vulnerable to various diseases that can significantly reduce y
    cd potato-disease-detector
 2.Install dependencies:
   pip install -r requirements.txt
+  
 3.Run the web app:
   bash
   streamlit run app.py
