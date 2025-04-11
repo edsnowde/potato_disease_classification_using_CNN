@@ -63,9 +63,9 @@ Potato plants are vulnerable to various diseases that can significantly reduce y
    git clone https://github.com/yourusername/potato-disease-detector.git
    cd potato-disease-detector
 2.Install dependencies:
-  pip install -r requirements.txt
+   pip install -r requirements.txt
   
 3.Run the web app:
-  bash
-  streamlit run app.py
+   streamlit run app.py
+
 
